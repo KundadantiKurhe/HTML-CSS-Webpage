@@ -1,0 +1,23 @@
+.search-firstname{
+  width: 148px;
+}
+
+.search-lastname{
+  width: 148px;
+}
+.search-email{
+  display: block;
+  width: 300px;
+}
+
+button {
+background-color: rgb(47, 127, 231);
+color: white;
+border: none;
+width: 300px;
+padding-top: 14px;
+padding-bottom: 14px;
+font-size: 18px;
+font-weight: bold;
+border-radius: 8px;
+}
