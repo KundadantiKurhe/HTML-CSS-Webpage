@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "../../../ResumeWebPageApplication"
+		},
+		{
+			"path": "../../../vidTube_img/images"
+		},
+		{
+			"path": "../.."
+		}
+	],
+	"settings": {
+		"liveServer.settings.multiRootWorkspaceName": "MyResume"
+	}
+}
